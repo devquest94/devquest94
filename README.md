@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=raw.githubusercontent.com/devquest94/devquest94/main/LOGO_DARK.png&w=220&round=30" />
-    <source media="(prefers-color-scheme: light)" srcset="https://images.weserv.nl/?url=raw.githubusercontent.com/devquest94/devquest94/main/LOGO_LIGTH.png&w=220&round=30" />
-    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/devquest94/devquest94/main/LOGO_DARK.png&w=220&round=30" alt="DevQuest" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/devquest-logo-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/devquest-logo-light.png" />
+    <img src="./assets/devquest-logo-dark.png" alt="DevQuest logo" width="200" />
   </picture>
 </p>
 
@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=3000&color=39D353&center=true&vCenter=true&random=false&width=620&lines=Building+DevQuest+%E2%80%94+software%2C+SaaS+%26+engineering+discipline.;.NET+%7C+ASP.NET+Core+%7C+Vue+3+%7C+Quasar+%7C+PostgreSQL;Code%2C+coffee+and+continuous+growth." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=3000&color=39D353&center=true&vCenter=true&random=false&width=600&lines=Building+DevQuest+%E2%80%94+software%2C+SaaS+%26+engineering+discipline.;.NET+%7C+ASP.NET+Core+%7C+Vue+3+%7C+Quasar+%7C+PostgreSQL;Code%2C+coffee+and+continuous+growth." alt="Typing SVG" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="./FOTO_GHIBLI.png" alt="DevQuest developer" width="720" />
+  <img src="./assets/devquest-profile-illustration.png" alt="Daniel Gonzalez — profile illustration" width="360" />
 </p>
 
 ---
@@ -28,21 +28,21 @@
 
 I'm a software developer focused on building practical, maintainable and scalable web applications oriented to real business needs.
 
-My core stack is **.NET / ASP.NET Core** on the backend and **Vue 3 + Quasar Framework** on the frontend. I care about clean architecture, solid design decisions and shipping things that work reliably in production.
+My core stack is **.NET / ASP.NET Core** on the backend and **Vue 3 + Quasar Framework** on the frontend. I care about clean architecture, solid design decisions and writing code that holds up over time.
 
 Currently building **SuperStock** — a multi-tenant SaaS for stock, sales and retail management — and growing my engineering identity under the **DevQuest** brand.
 
-I also incorporate **AI-assisted development** tools into my workflow, using them as engineering amplifiers to move faster without sacrificing quality.
+I also incorporate **AI-assisted development** tools into my workflow, using them as engineering amplifiers to move faster without sacrificing quality or judgment.
 
 ---
 
 ## Currently Working On
 
-- 🏗️ **SuperStock** — multi-tenant SaaS for retail stock and sales management
-- 🌐 **DevQuest Portfolio & Blog** — personal landing, project showcase and technical writing
-- 🧱 Deepening backend architecture with .NET: Clean Architecture, multi-tenancy, scalability
-- 🤖 Building repeatable workflows with AI-assisted engineering tools
-- 📝 Documenting my learning process and sharing practical software engineering content
+- **SuperStock** — multi-tenant SaaS for retail stock and sales management
+- **DevQuest** — personal portfolio, technical blog and engineering brand
+- Deepening backend architecture with .NET: Clean Architecture, multi-tenancy, scalability
+- Building structured workflows with AI-assisted engineering tools
+- Documenting my learning process and sharing practical software engineering content
 
 ---
 
@@ -89,10 +89,11 @@ Prompt engineering &nbsp;·&nbsp; AI-driven code review &nbsp;·&nbsp; Automated
 
 ## Featured Projects
 
-### 🗃️ SuperStock
+### SuperStock
+
 > Multi-tenant SaaS for stock, sales and retail management
 
-A production-grade platform built for real business operations.
+A real-world SaaS project focused on solving practical business operations for retail.
 
 | Area | Details |
 |---|---|
@@ -101,21 +102,22 @@ A production-grade platform built for real business operations.
 | **Infrastructure** | Linux VPS · Nginx · Cloudflare · Cloudflare R2 |
 | **Architecture** | Multi-tenant · Clean Architecture · REST API |
 
-Key features: inventory management · sales tracking · digital product catalogs per business · per-tenant configuration · cloud image storage
+Key areas: inventory management · sales tracking · digital product catalogs · per-tenant configuration · cloud image storage
 
 `Private repository — active development`
 
 ---
 
-### 🌐 DevQuest — Portfolio & Blog
+### DevQuest — Portfolio & Blog
+
 > Personal engineering hub: portfolio, technical blog and learning journal
 
 - Professional showcase of real projects
 - Technical writing and engineering notes
 - AI-assisted development documentation
-- Foundation for future professional opportunities
+- Foundation for professional growth and visibility
 
-`<!-- PLACEHOLDER: https://devquest.dev — coming soon -->`
+Status: in progress &nbsp;·&nbsp; [devquest.net.ar](https://devquest.net.ar)
 
 ---
 
@@ -127,12 +129,12 @@ In practice this means:
 
 - Analyzing legacy codebases and identifying refactoring paths
 - Generating structured implementation plans before writing code
-- Reviewing architecture decisions and validating against Clean Architecture principles
+- Reviewing architecture decisions against Clean Architecture principles
 - Applying YAGNI, DRY and maintainability checks consistently
 - Automating repetitive technical tasks with prompt-driven workflows
 - Improving and structuring technical documentation
 
-The goal is always the same: ship better software, faster, with more clarity and less noise.
+The goal is always the same: ship better software, with more clarity and less noise.
 
 ---
 
@@ -144,11 +146,11 @@ The goal is always the same: ship better software, faster, with more clarity and
 > Status: building.
 ```
 
-DevQuest is my personal brand and my engineering journey.
+DevQuest is my personal brand and engineering journey.
 
 It represents a simple idea — that discipline, curiosity and craft compound over time. Not just writing code, but making decisions, solving real problems and growing with every project.
 
-> **Code. Coffee. Continuous growth.**
+**Code. Coffee. Continuous growth.**
 
 ---
 
@@ -157,10 +159,6 @@ It represents a simple idea — that discipline, curiosity and craft compound ov
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devquest94&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devquest94&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devquest94&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -172,7 +170,7 @@ It represents a simple idea — that discipline, curiosity and craft compound ov
 | 💼 **LinkedIn** | [danielsan94](https://www.linkedin.com/in/danielsan94/) |
 | 🌐 **Portfolio** | [devquest.net.ar](https://devquest.net.ar) |
 | 📧 **Email** | [daniel.gonzalez.devquest@gmail.com](mailto:daniel.gonzalez.devquest@gmail.com) |
-| ▶️ **YouTube** | [@devquest-net](http://www.youtube.com/@devquest-net) |
+| ▶️ **YouTube** | [@devquest-net](https://www.youtube.com/@devquest-net) |
 | ✍️ **Medium** | [@devquest](https://medium.com/@devquest) |
 | 🖥️ **DEV** | [dev.to/devquest](https://dev.to/devquest) |
 | 📍 **Location** | Villa Mercedes · San Luis · Argentina |
