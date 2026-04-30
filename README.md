@@ -83,7 +83,7 @@ REST APIs &nbsp;·&nbsp; Clean Architecture &nbsp;·&nbsp; Multi-tenant systems
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-39D353?style=flat-square&logoColor=white)
 
-Prompt engineering &nbsp;·&nbsp; AI-driven code review &nbsp;·&nbsp; Automated documentation
+Prompt engineering &nbsp;·&nbsp; AI-assisted code review &nbsp;·&nbsp; Automated documentation
 
 ---
 
