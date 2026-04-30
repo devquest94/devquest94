@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./LOGO_DARK.png" />
-    <source media="(prefers-color-scheme: light)" srcset="./LOGO_LIGTH.png" />
-    <img src="./LOGO_DARK.png" width="220" alt="DevQuest" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=raw.githubusercontent.com/devquest94/devquest94/main/LOGO_DARK.png&w=220&round=30" />
+    <source media="(prefers-color-scheme: light)" srcset="https://images.weserv.nl/?url=raw.githubusercontent.com/devquest94/devquest94/main/LOGO_LIGTH.png&w=220&round=30" />
+    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/devquest94/devquest94/main/LOGO_DARK.png&w=220&round=30" alt="DevQuest" />
   </picture>
 </p>
 
@@ -169,13 +169,16 @@ It represents a simple idea — that discipline, curiosity and craft compound ov
 
 | | |
 |---|---|
-| 💼 **LinkedIn** | `<!-- PLACEHOLDER: https://linkedin.com/in/YOUR_USERNAME -->` |
-| 🌐 **Portfolio** | `<!-- PLACEHOLDER: https://devquest.dev — coming soon -->` |
-| 📝 **Blog** | `<!-- PLACEHOLDER: https://blog.devquest.dev — coming soon -->` |
-| 📧 **Email** | `<!-- PLACEHOLDER: your@email.com -->` |
+| 💼 **LinkedIn** | [danielsan94](https://www.linkedin.com/in/danielsan94/) |
+| 🌐 **Portfolio** | [devquest.net.ar](https://devquest.net.ar) |
+| 📧 **Email** | [daniel.gonzalez.devquest@gmail.com](mailto:daniel.gonzalez.devquest@gmail.com) |
+| ▶️ **YouTube** | [@devquest-net](http://www.youtube.com/@devquest-net) |
+| ✍️ **Medium** | [@devquest](https://medium.com/@devquest) |
+| 🖥️ **DEV** | [dev.to/devquest](https://dev.to/devquest) |
+| 📍 **Location** | Villa Mercedes · San Luis · Argentina |
 
 ---
 
 <p align="center">
-  <sub>Built with discipline and coffee &nbsp;·&nbsp; <b>DevQuest</b> © 2025</sub>
+  <sub>Built with discipline and coffee &nbsp;·&nbsp; <b>DevQuest</b> © 2026</sub>
 </p>
